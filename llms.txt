@@ -1,0 +1,70 @@
+# VerseForMe
+
+Bible verses for modern life situations. Static HTML site with 60 pages.
+
+## Pages
+
+- / — Home, all 60 situations listed
+- /addiction-recovery/ — Addiction Recovery: 5 Bible verses + prayer
+- /anger/ — Anger: 5 Bible verses + prayer
+- /anxiety/ — Anxiety: 5 Bible verses + prayer
+- /anxiety-before-surgery/ — Anxiety Before Surgery: 5 Bible verses + prayer
+- /betrayal/ — Betrayal: 5 Bible verses + prayer
+- /burnout/ — Burnout: 5 Bible verses + prayer
+- /caring-for-sick-parent/ — Caring For Sick Parent: 5 Bible verses + prayer
+- /chronic-illness/ — Chronic Illness: 5 Bible verses + prayer
+- /chronic-pain/ — Chronic Pain: 5 Bible verses + prayer
+- /college-stress/ — College Stress: 5 Bible verses + prayer
+- /comparison-to-others/ — Comparison To Others: 5 Bible verses + prayer
+- /death-of-loved-one/ — Death Of Loved One: 5 Bible verses + prayer
+- /depression/ — Depression: 5 Bible verses + prayer
+- /difficult-boss/ — Difficult Boss: 5 Bible verses + prayer
+- /divorce/ — Divorce: 5 Bible verses + prayer
+- /doomscrolling-and-phone-addiction/ — Doomscrolling And Phone Addiction: 5 Bible verses + prayer
+- /eating-disorder-recovery/ — Eating Disorder Recovery: 5 Bible verses + prayer
+- /embarrassment-and-shame/ — Embarrassment And Shame: 5 Bible verses + prayer
+- /exam-anxiety/ — Exam Anxiety: 5 Bible verses + prayer
+- /family-estrangement/ — Family Estrangement: 5 Bible verses + prayer
+- /fear-of-death/ — Fear Of Death: 5 Bible verses + prayer
+- /fear-of-failure/ — Fear Of Failure: 5 Bible verses + prayer
+- /feeling-forgotten-by-god/ — Feeling Forgotten By God: 5 Bible verses + prayer
+- /feeling-invisible/ — Feeling Invisible: 5 Bible verses + prayer
+- /feeling-lost/ — Feeling Lost: 5 Bible verses + prayer
+- /financial-stress/ — Financial Stress: 5 Bible verses + prayer
+- /forgiveness/ — Forgiveness: 5 Bible verses + prayer
+- /gratitude/ — Gratitude: 5 Bible verses + prayer
+- /grief/ — Grief: 5 Bible verses + prayer
+- /hopelessness/ — Hopelessness: 5 Bible verses + prayer
+- /imposter-syndrome/ — Imposter Syndrome: 5 Bible verses + prayer
+- /infertility/ — Infertility: 5 Bible verses + prayer
+- /insomnia/ — Insomnia: 5 Bible verses + prayer
+- /jealousy/ — Jealousy: 5 Bible verses + prayer
+- /job-loss/ — Job Loss: 5 Bible verses + prayer
+- /loneliness/ — Loneliness: 5 Bible verses + prayer
+- /low-self-worth/ — Low Self Worth: 5 Bible verses + prayer
+- /marriage-problems/ — Marriage Problems: 5 Bible verses + prayer
+- /mental-exhaustion/ — Mental Exhaustion: 5 Bible verses + prayer
+- /midlife-crisis/ — Midlife Crisis: 5 Bible verses + prayer
+- /miscarriage/ — Miscarriage: 5 Bible verses + prayer
+- /motherhood-overwhelm/ — Motherhood Overwhelm: 5 Bible verses + prayer
+- /moving-to-new-city/ — Moving To New City: 5 Bible verses + prayer
+- /new-job-fear/ — New Job Fear: 5 Bible verses + prayer
+- /nighttime-anxiety/ — Nighttime Anxiety: 5 Bible verses + prayer
+- /overwhelming-stress/ — Overwhelming Stress: 5 Bible verses + prayer
+- /panic-attacks/ — Panic Attacks: 5 Bible verses + prayer
+- /prayer-feels-unanswered/ — Prayer Feels Unanswered: 5 Bible verses + prayer
+- /prodigal-child/ — Prodigal Child: 5 Bible verses + prayer
+- /purpose-and-meaning/ — Purpose And Meaning: 5 Bible verses + prayer
+- /raising-difficult-child/ — Raising Difficult Child: 5 Bible verses + prayer
+- /regret/ — Regret: 5 Bible verses + prayer
+- /single-and-lonely/ — Single And Lonely: 5 Bible verses + prayer
+- /social-anxiety/ — Social Anxiety: 5 Bible verses + prayer
+- /spiritual-doubt/ — Spiritual Doubt: 5 Bible verses + prayer
+- /starting-over/ — Starting Over: 5 Bible verses + prayer
+- /toxic-relationship/ — Toxic Relationship: 5 Bible verses + prayer
+- /trusting-god-after-trauma/ — Trusting God After Trauma: 5 Bible verses + prayer
+- /waiting-on-gods-timing/ — Waiting On Gods Timing: 5 Bible verses + prayer
+- /work-conflict/ — Work Conflict: 5 Bible verses + prayer
+
+- /about/ — About VerseForMe
+- /privacy/ — Privacy policy
